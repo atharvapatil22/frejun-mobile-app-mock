@@ -1,1 +1,1 @@
-console.log("kocrf")
+console.log("squqa")
