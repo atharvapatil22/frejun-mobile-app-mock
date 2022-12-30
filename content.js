@@ -1,1 +1,1 @@
-console.log("squqa")
+console.log("hljym")
